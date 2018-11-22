@@ -1,0 +1,13 @@
+.navbar {
+    padding: 1.5rem 1rem;
+}
+
+.nav-link {
+    font-size: 1.5rem;
+    color: black;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: 4.5rem;
+}
+
