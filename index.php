@@ -7,19 +7,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>LECH</title>
     <!-- Personal style CSS -->
-    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/index.css">
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/style.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="assets/css/index.css">
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" type="text/css" media="screen" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
     <script src="./node_modules/jquery/dist/jquery.min.js"></script>
     <script src="./node_modules/popper.js/dist/popper.min.js"></script>
     <link rel="stylesheet" type="text/css" media="screen" href="./node_modules/bootstrap/dist/js/bootstrap.min.js" />
-    <link href="assets/css/bootstrap/font-awesome.min.css" rel="stylesheet">
-    <link href="assets/css/bootstrap/jquery.lineProgressbar.min.css" rel="stylesheet">
-    <link href="assets/css/bootstrap/owl.carousel.css" rel="stylesheet">
-    <link href="assets/css/bootstrap/magnific-popup.css" rel="stylesheet">
     <!-- Bootstrap Icons -->
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
     <!-- Node Modules Bootstrap core CSS -->
 </head>
 

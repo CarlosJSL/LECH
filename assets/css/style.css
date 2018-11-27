@@ -104,14 +104,20 @@ li.logo {
  2. navbar area 
  ----------------------------*/
 
- .link-dep{
-  color: #006699; 
-  font-family: 'Montserrat', sans-serif;
+ .link-navbar{
+  float: left;
+  margin-right: 20px;
+
  }
 
 /*--------------------------
  3. footer area 
  ----------------------------*/
+
+ .link-dep{
+  color: #006699; 
+  font-family: 'Montserrat', sans-serif;
+ }
 
  .social-medias {
     margin-top: 10px;
@@ -128,7 +134,7 @@ li.logo {
     width: 35px;
     padding-left: 10px;
     padding-top: 9px;
-    margin-right: 5px;
+    margin-right: 10px;
   -webkit-transition: all .5s ease;
   -moz-transition: all .5s ease;
   -o-transition: all .5s ease;
