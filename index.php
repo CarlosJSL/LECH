@@ -34,7 +34,7 @@
     <!-- Navbar End  -->
 
     <?php
-        switch($_GET['page']) {
+        switch($_GET['page']){
           case 'home':
               include 'includes/home.php';
               break;
@@ -57,7 +57,7 @@
               include 'includes/contato.php';
               break;
           default:
-              include 'includes/initial.php';
+              include 'includes/home.php';
               break;
         }
         ?>

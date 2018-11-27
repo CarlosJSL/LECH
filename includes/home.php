@@ -35,5 +35,44 @@
         <span class="carousel-control-next-icon"></span>
     </a>
     </div>
+    <div class="container-fluid last-news">
+        <br>
+        <div class="row">      
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"> 
+                <h1 style = "text-align:left; ">O que está acontecendo no LECH</h1>
+            </div>
+            <div class="col-lg-6col-md-6 col-sm-6 col-xs-6"> 
+                <h3 style = "text-align:right; padding-right:15px; ">Mais noticias +</h3>
+            </div>
+		</div>
+        <br>
+        <div class="row"> 
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"> 
+                <img src="../assets/images/slide1.jpg"> 
+            </div>
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6"> 
+                <div class="container">
+                    <div class = "row">
+                        <div class = "col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <img src="../assets/images/slide1.jpg"> 
+                        </div>
+                        <div class = "col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <img src="../assets/images/slide1.jpg"> 
+                        </div>
+                    </div>
+
+                    <div class = "row justify-space">
+                        <div class = "col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <img src="../assets/images/slide1.jpg"> 
+                        </div>
+                        <div class = "col-lg-6 col-md-6 col-sm-6 col-xs-6">
+                            <img src="../assets/images/slide1.jpg"> 
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br>
     <div id="map"></div>
 </section>

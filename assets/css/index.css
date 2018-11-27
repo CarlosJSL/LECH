@@ -24,3 +24,12 @@ footer {
 #map {
     height: 500px;
 }
+
+.last-news {
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+}
+
+.justify-space {
+    padding-top: 37px;
+}

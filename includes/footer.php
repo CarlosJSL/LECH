@@ -13,7 +13,7 @@
 	            	<div style="width: 50%; float: left;"><img src="assets/images/logo-ufrn.png" width="65%"></div>
 	            </div>
 	            <div class="col-lg-2 col-md-2 col-sm-2 col-xsm-2"></div>
-	            <div class="col-lg-12 col-md-12 col-sm-12 col-xsm-12"><br><br>
+	            <div class="col-lg-12 col-md-12 col-sm-12 col-xsm-12"><br><br><br>
 	            	<a class="link-dep" href="https://www.ufrn.br/"><h8>Universidade Federal do Rio Grande do Norte</h8></a><br>
 	                <a class="link-dep" href="https://sigaa.ufrn.br/sigaa/public/programa/portal.jsf?id=367"><h8>Programa de Pós Graduação em Psicobiologia</h8></a><br>
 	            </div>
