@@ -11,9 +11,7 @@
     <link rel="stylesheet" type="text/css" media="screen" href="assets/css/index.css">
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" type="text/css" media="screen" href="./node_modules/bootstrap/dist/css/bootstrap.min.css" />
-    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
-    <script src="./node_modules/popper.js/dist/popper.min.js"></script>
-    <link rel="stylesheet" type="text/css" media="screen" href="./node_modules/bootstrap/dist/js/bootstrap.min.js" />
+   
     <!-- Bootstrap Icons -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
     <!-- Node Modules Bootstrap core CSS -->
@@ -60,6 +58,9 @@
     <?php include 'includes/footer.php' ?>
 
 <!-- ###################################### JS ###################################### -->
+    <script src="./node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="./node_modules/popper.js/dist/popper.min.js"></script>
+    <script src="./node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
     <script src = "js/map.js"></script>
     <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCy2Eckah-aiMh0NL3_XVJlAALZcMs5iLQ&callback=initMap" type="text/javascript"></script>
 </body>
