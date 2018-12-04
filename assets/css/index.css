@@ -34,3 +34,64 @@ footer {
     padding-top: 28px;
 }
 
+#laboratorio {
+    width: 100%;
+    height: 700px;
+}
+
+.justify-padding {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.text{
+    padding-top: 1.6% !important;
+}
+
+.olech-banner {
+    display:flex;
+    background-image: url("http://www.weinberger.com.br/blog/wp-content/uploads/2015/09/laboratorio.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 600px !important;
+    width: 100vw;
+}
+
+.triangle { 
+    align-self: flex-end;
+    width: 0;
+    height: 0px;
+    bottom:0;
+    border-bottom: 600px solid white;
+    border-right: 150px solid transparent;
+    border-right-width: 100vw;
+}
+
+.triangle-second {
+    align-self: flex-end;
+    width: 0;
+    height: 0px;
+    bottom:0;
+    border-bottom: 600px solid white;
+    border-left: 150px solid transparent;
+    border-left-width: 100vw;
+}
+.info {
+    margin-top: 216px;
+    margin-left: 25px;
+    width: 400px;
+}
+
+.profile > img {
+    width: 150px;
+    height: 150px;
+}
+
+.profile {
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
