@@ -107,7 +107,7 @@ li.logo {
  .link-navbar{
   float: left;
   margin-right: 20px;
-
+  text-decoration: none !important;
  }
 
 /*--------------------------

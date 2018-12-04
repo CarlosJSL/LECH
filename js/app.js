@@ -5,7 +5,6 @@
             new Route('home', 'home.html', true),            
             new Route('olech', 'olech.html')
         ]);
-        console.log(router)
     }
     init();
 }()); 
