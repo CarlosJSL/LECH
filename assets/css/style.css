@@ -12,7 +12,7 @@ a,a:hover {
 
 html,
 body {
-  color:#545454;
+  color:#5d5d5d;
   line-height:26px;
   font-weight: 400;
   font-size:15px;
@@ -84,7 +84,7 @@ img {
     transition: all 0.5s ease 0s;
   font-family: 'Montserrat', sans-serif;
   font-size:18px;
-  padding: 0px 30px;
+  padding: 0px 35px;
   font-weight:500;
 }
 
@@ -160,19 +160,6 @@ li.logo {
   color: #FAFAFA;
   font-family: 'Montserrat', sans-serif;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
