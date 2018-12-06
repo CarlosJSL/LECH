@@ -75,9 +75,13 @@ footer {
     width: 400px;
 }
 
-.profile > img {
+.profile > a> img {
     width: 150px;
     height: 150px;
+}
+
+.profile > a {
+    text-decoration: none !important;
 }
 
 .profile {

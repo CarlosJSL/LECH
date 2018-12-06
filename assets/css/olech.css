@@ -10,4 +10,8 @@
 
 .rounded-circle {
 	box-shadow: 10px -3px 22px #888888;
+	cursor: pointer;
+}
+.rounded-circle:hover {
+	filter: grayscale(100%);
 }
