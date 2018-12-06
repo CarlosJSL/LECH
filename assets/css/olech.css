@@ -2,3 +2,12 @@
 	color: #006699;
 	text-align: justify;
 }
+
+#logo-leach {
+	width: 400px;
+	margin-top:190px;
+}
+
+.rounded-circle {
+	box-shadow: 10px -3px 22px #888888;
+}
