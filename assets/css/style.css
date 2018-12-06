@@ -73,6 +73,7 @@ img {
   flex-flow: row;
   align-items: center;
   white-space: nowrap;
+  padding-left: 76px;
 }
 
 .nav-list li.current>a{
@@ -121,7 +122,9 @@ li.logo {
 
  .link-dep{
   color: #006699; 
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Patrick Hand', cursive !important;
+  text-decoration: none !important;
+  font-size: 1.5rem;
  }
 
  .social-medias {
@@ -270,7 +273,7 @@ li.logo {
   	background:#2B2B2B;
   	text-align:center;
   	max-height:0;
-  	overflow:hidden;
+    overflow:hidden;
   }
   .activeNav{
   	max-height:100%; 
