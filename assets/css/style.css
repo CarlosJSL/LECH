@@ -3,7 +3,7 @@
 	Google Font
 ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
+@import url('https://fonts.googleapis.com/css?family=Patrick+Hand');
    
 a,a:hover {
   text-decoration:none;
@@ -16,7 +16,7 @@ body {
   line-height:26px;
   font-weight: 400;
   font-size:15px;
-  font-family: 'Gamja Flower', cursive !important; 
+  font-family: 'Patrick Hand', cursive !important; 
 }
 
 h1,
@@ -24,7 +24,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Gamja Flower', cursive !important;
+  font-family: 'Patrick Hand', cursive !important;
    font-weight: 600;
    color: #2B2B2B;
    
@@ -87,7 +87,7 @@ img {
   -moz-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
-  font-family: 'Gamja Flower', cursive !important;
+  font-family: 'Patrick Hand', cursive !important;
   font-size: 1.7rem;
   padding: 0px 35px;
   font-weight:500;
