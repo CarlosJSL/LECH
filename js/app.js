@@ -3,7 +3,8 @@
     function init() {
         var router = new Router([
             new Route('home', 'home.html', true),            
-            new Route('olech', 'olech.html')
+            new Route('olech', 'olech.html'),
+            new Route('pesquisas', 'pesquisas.html'),
         ]);
     }
     init();
