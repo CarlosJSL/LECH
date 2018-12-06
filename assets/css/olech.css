@@ -68,3 +68,7 @@
 .rounded-circle:hover {
 	filter: grayscale(100%);
 }
+
+#leach-title {
+	color:#006699
+}
