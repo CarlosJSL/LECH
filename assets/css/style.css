@@ -3,7 +3,7 @@
 	Google Font
 ========================================================================== */
 
-@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i|Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i');
+@import url('https://fonts.googleapis.com/css?family=Gamja+Flower');
    
 a,a:hover {
   text-decoration:none;
@@ -16,18 +16,23 @@ body {
   line-height:26px;
   font-weight: 400;
   font-size:15px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Gamja Flower', cursive !important; 
 }
 
 h1,
-h2,
 h3,
 h4,
 h5,
 h6 {
-   font-family: 'Montserrat', sans-serif;
+  font-family: 'Gamja Flower', cursive !important;
    font-weight: 600;
    color: #2B2B2B;
+   
+}
+
+
+h2{
+  font-size: 2.5rem !important;
 }
 ul {
   margin:0px;
@@ -82,8 +87,8 @@ img {
   -moz-transition: all 0.5s ease 0s;
     -o-transition: all 0.5s ease 0s;
     transition: all 0.5s ease 0s;
-  font-family: 'Montserrat', sans-serif;
-  font-size:18px;
+  font-family: 'Gamja Flower', cursive !important;
+  font-size: 1.7rem;
   padding: 0px 35px;
   font-weight:500;
 }

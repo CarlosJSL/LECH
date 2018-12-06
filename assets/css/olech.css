@@ -1,6 +1,59 @@
+.olech-banner {
+    display:flex;
+    /*background-image: url("http://www.weinberger.com.br/blog/wp-content/uploads/2015/09/laboratorio.jpg");*/
+    background-image: url("../images/back1.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    min-height: 700px !important;
+    width: 100%;
+}
+
+.triangle { 
+    align-self: flex-end;
+    width: 0;
+    height: 0px;
+    bottom:0;
+    border-bottom: 430px solid white;
+    border-right: 150px solid transparent;
+    border-right-width: 88vw;
+}
+
+.profile > a > img {
+    width: 150px;
+    height: 150px;
+}
+
+.profile {
+    width: 200px;
+    float: left;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+
+.profile > a {
+    text-decoration: none !important;
+}
+
+.profile > a >  p {
+	font-size:1.4rem;
+}
+
+.profile > p{
+	font-size:1.4rem;
+}
+
 .info{
 	color: #006699;
 	text-align: justify;
+	margin-top: 95px;
+    margin-left: 18px;
+    width: 400px;
+}
+
+.info > p{
+	font-size:1.1rem;
 }
 
 #logo-leach {
