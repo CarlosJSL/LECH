@@ -51,8 +51,8 @@
 .flex-container > div {
     margin: 20px;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
+    height: 250px;
+    width: 250px;
 }
 
 @media only screen and (max-width: 1024px) {
