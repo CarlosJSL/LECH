@@ -50,7 +50,8 @@ footer {
 
 .olech-banner {
     display:flex;
-    background-image: url("http://www.weinberger.com.br/blog/wp-content/uploads/2015/09/laboratorio.jpg");
+    /*background-image: url("http://www.weinberger.com.br/blog/wp-content/uploads/2015/09/laboratorio.jpg");*/
+    background-image: url("../images/back1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
