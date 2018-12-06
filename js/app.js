@@ -6,6 +6,7 @@
             new Route('olech', 'olech.html'),
             new Route('ensino', 'ensino.html'),
             new Route('pesquisas', 'pesquisas.html'),
+            new Route('publicacoes', 'publicacoes.html'),
         ]);
     }
     init();
