@@ -11,7 +11,7 @@
     "start": "http-server ./"
   },
   "repository": {
-    "type": "git",
+    "type": "git ",
     "url": "git+https://github.com/CarlosJSL/LECH.git"
   },
   "keywords": [],
