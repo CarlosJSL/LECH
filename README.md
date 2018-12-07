@@ -25,3 +25,5 @@ E, finalmente rode local ( pode demorar um pouco para abrir a aplicação)
 > php -S localhost:8000
 ```
 
+## Heroku
+Voce tambem pode encontrar o site seguindo esse link: https://lech-research.herokuapp.com/
