@@ -11,7 +11,7 @@ Aplicação criada para a disciplina de desenvolvimento web I
 
 Clone o projeto:
 ```sh
-> git clone https://github.com/encantando-cordel/encantando-web.git
+> git clone https://github.com/CarlosJSL/LECH.git
 ```
 
 Entre na pasta do projeto e instale as dependências do projeto digitando:
