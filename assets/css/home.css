@@ -1,3 +1,7 @@
 #map_canvas {
     height: 100%;
 }
+.news:hover{
+    filter: grayscale(100%);
+    cursor: pointer;
+}
