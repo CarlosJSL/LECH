@@ -1,6 +1,8 @@
 # LECH
 Aplicação criada para a disciplina de desenvolvimento web I
 
+## Documentação
+O relatório sobre o desenvolvimento do projeto pode ser encontrado no diretório doc do projeto
 
 ## Dependencias
 - Ter o nodejs instalando globalmente
